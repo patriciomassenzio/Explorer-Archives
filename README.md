@@ -21,28 +21,7 @@ Kotlin-File-Explorer is an Android application developed in a rapid development 
 - File Sorting Options
 - ![Sorting](/Screenshots/SortOptions.png)
 
-## Installation
-To set up the project for development:
-1. Ensure you have Android Studio and Git installed on your machine.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/mcgirr5799/Kotlin-File-Explorer.git
-   ```
-3. Open Android Studio and select 'Open an existing project', then navigate to the cloned repository.
 
-## Usage
-To run the app on a simulator or a real device:
-1. Open the project in Android Studio.
-2. Choose an Android simulator or connect an Android device.
-3. Click on the 'Run' button in Android Studio.
-
-## Running Tests
-This project includes a suite of unit tests to ensure functionality and performance:
-1. In Android Studio, open the test navigator.
-2. Click the 'Run' button next to the test suite to execute the tests.
-
-## Contributing
-Contributions to the Kotlin-File-Explorer project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file in the repository for more details.
